@@ -45,7 +45,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/Empty-s/20191208_062.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/Empty-s_2/20221229_002.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -78,22 +78,28 @@ body::before {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2022年12月29日、東京駅集合、新橋で忘年会!!!</marquee></span></h2>
 	
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
-<section><h4><span class="red">2020年6月20日</span><span class="white"><br>今年も俣さんに予約してもらいました。<br>
+<section><h4><span class="red">2022年12月29日</span><span class="white"><br>今年も俣さんに予約してもらいました。<br>
 以下、LINE会話</span></h4></section>
 
-<a href="https://torokoid.github.io/Empty-s/20200527_01.png" data-lightbox="abc"><img src="https://torokoid.github.io/Empty-s/20200527_01.png" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/Empty-s/20200527_02.png" data-lightbox="abc"><img src="https://torokoid.github.io/Empty-s/20200527_02.png" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/Empty-s/20200527_03.png" data-lightbox="abc"><img src="https://torokoid.github.io/Empty-s/20200527_03.png" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/Empty-s/20200527_04.png" data-lightbox="abc"><img src="https://torokoid.github.io/Empty-s/20200527_04.png" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/Empty-s/20200601_01.png" data-lightbox="abc"><img src="https://torokoid.github.io/Empty-s/20200601_01.png" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/Empty-s/20200607_01.png" data-lightbox="abc"><img src="https://torokoid.github.io/Empty-s/20200607_01.png" alt="サンプル画像" width="900" /></a>
-
-<a href="https://torokoid.github.io/Empty-s/LINE21.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/Empty-s/LINE21.jpg" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/Empty-s/LINE22.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/Empty-s/LINE22.jpg" alt="サンプル画像" width="900" /></a>
-<a href="https://torokoid.github.io/Empty-s/LINE23.jpg" data-lightbox="abc"><img src="https://torokoid.github.io/Empty-s/LINE23.jpg" alt="サンプル画像" width="900" /></a>
-<a href="20200913_009.png" data-lightbox="abc"><img src="20200913_009.png" alt="サンプル画像" width="900" /></a>
-<a href="20200913_010.png" data-lightbox="abc"><img src="20200913_010.png" alt="サンプル画像" width="900" /></a>
-<a href="20200913_011.png" data-lightbox="abc"><img src="20200913_011.png" alt="サンプル画像" width="900" /></a>
+<a href="20221229_001.JPG" data-lightbox="abc"><img src="20221229_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221229_002.JPG" data-lightbox="abc"><img src="20221229_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221229_003.JPG" data-lightbox="abc"><img src="20221229_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221229_004.JPG" data-lightbox="abc"><img src="20221229_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221229_005.JPG" data-lightbox="abc"><img src="20221229_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221229_006.JPG" data-lightbox="abc"><img src="20221229_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221229_007.JPG" data-lightbox="abc"><img src="20221229_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221229_008.JPG" data-lightbox="abc"><img src="20221229_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221229_009.JPG" data-lightbox="abc"><img src="20221229_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221229_010.JPG" data-lightbox="abc"><img src="20221229_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221229_011.JPG" data-lightbox="abc"><img src="20221229_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221229_012.JPG" data-lightbox="abc"><img src="20221229_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221229_013.JPG" data-lightbox="abc"><img src="20221229_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221229_014.JPG" data-lightbox="abc"><img src="20221229_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221229_015.JPG" data-lightbox="abc"><img src="20221229_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221229_016.JPG" data-lightbox="abc"><img src="20221229_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221229_017.JPG" data-lightbox="abc"><img src="20221229_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221229_018.JPG" data-lightbox="abc"><img src="20221229_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20221229_019.JPG" data-lightbox="abc"><img src="20221229_019.JPG" alt="サンプル画像" width="900" /></a>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

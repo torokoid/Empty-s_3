@@ -65,13 +65,13 @@ body::before {
   モバイル端末をお使いの場合は、画面を横向きにするとより見やすくご覧頂けます。</span>
 </p>
 
-<body onload="alert('エンプティーズ と レプレッションズ、忘年会準備LINE会話の記録です！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ。またやりましょう〜(^o^)/')">
+<body onload="alert('エンプティーズ と レプレッションズ、忘年会の記録です！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ。またやりましょう〜(^o^)/')">
 <h1><span class="yellow"><marquee behavior="alternate">!!! Empty's & Lepression's !!!</marquee></span></h1>
 <div style="background-color:rgb(255,255,255,0.5);">
 <p class="topicpath"><a href="https://torokoid.github.io/Empty-s/">忘年会</a>>忘年会_2</p></div>
-<p align="right">2022、東京駅→新橋、忘年会</p>
+<p align="right">2022、東京駅→新橋、忘年会。背景は東京駅の青空。</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<p align="left"> <img src="qr__.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="qr___.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
 	
@@ -79,7 +79,7 @@ body::before {
 	
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
 <section><h4><span class="red">2022年12月29日</span><span class="white"><br>今年も俣さんに予約してもらいました。<br>
-以下、LINE会話</span></h4></section>
+以下、適当な写真集</span></h4></section>
 
 <a href="20221229_001.JPG" data-lightbox="abc"><img src="20221229_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221229_002.JPG" data-lightbox="abc"><img src="20221229_002.JPG" alt="サンプル画像" width="900" /></a>

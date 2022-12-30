@@ -80,18 +80,21 @@ body::before {
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
 <section><h4><span class="red">2022年12月29日</span><span class="white"><br>今年も俣さんに予約してもらいました。<br>
 以下、適当な写真集</span></h4></section>
-
+<br>
+	<p>東京駅に集合しました</p>
 <a href="20221229_001.JPG" data-lightbox="abc"><img src="20221229_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221229_002.JPG" data-lightbox="abc"><img src="20221229_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221229_003.JPG" data-lightbox="abc"><img src="20221229_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221229_004.JPG" data-lightbox="abc"><img src="20221229_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221229_005.JPG" data-lightbox="abc"><img src="20221229_005.JPG" alt="サンプル画像" width="900" /></a>
+	<p>移動の途中では、イルミネーションが綺麗</p>
 <a href="20221229_006.JPG" data-lightbox="abc"><img src="20221229_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221229_007.JPG" data-lightbox="abc"><img src="20221229_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221229_008.JPG" data-lightbox="abc"><img src="20221229_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221229_009.JPG" data-lightbox="abc"><img src="20221229_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221229_010.JPG" data-lightbox="abc"><img src="20221229_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221229_011.JPG" data-lightbox="abc"><img src="20221229_011.JPG" alt="サンプル画像" width="900" /></a>
+	<p>一次会の写真は一枚</p>
 <a href="20221229_012.JPG" data-lightbox="abc"><img src="20221229_012.JPG" alt="サンプル画像" width="900" /></a>
 <p>ここから二次会</p>
 <a href="20221229_013.JPG" data-lightbox="abc"><img src="20221229_013.JPG" alt="サンプル画像" width="900" /></a>

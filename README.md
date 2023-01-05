@@ -92,6 +92,7 @@ body::before {
 <a href="20221229_007.JPG" data-lightbox="abc"><img src="20221229_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221229_008.JPG" data-lightbox="abc"><img src="20221229_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221229_009.JPG" data-lightbox="abc"><img src="20221229_009.JPG" alt="サンプル画像" width="900" /></a>
+<p>雨はゴジラのモニュメントを見つけて、すかさず撮影</p>
 <a href="20221229_010.JPG" data-lightbox="abc"><img src="20221229_010.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221229_011.JPG" data-lightbox="abc"><img src="20221229_011.JPG" alt="サンプル画像" width="900" /></a>
 	<p>一次会の写真は一枚</p>

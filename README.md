@@ -1,4 +1,4 @@
-# Empty-s_2
+# Empty-s_3
 
 <html lang="ja">
  <head>
@@ -69,19 +69,19 @@ body::before {
 <h1><span class="yellow"><marquee behavior="alternate">!!! Empty's & Lepression's !!!</marquee></span></h1>
 <div style="background-color:rgb(255,255,255,0.5);">
 <p class="topicpath"><a href="https://torokoid.github.io/Empty-s/">忘年会</a>>忘年会_2</p></div>
-<p align="right">2022、東京駅→新橋、忘年会。背景は東京駅の青空。</p>
+<p align="right">2023、新橋、飲み会。</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<p align="left"> <img src="qr___.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="qr____.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
 	
-<h2><span class="yellow"><marquee behavior="alternate">!!! 2022年12月29日、東京駅集合、新橋で忘年会!!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="alternate">!!! 2023年6月10日、新橋で飲み会!!!</marquee></span></h2>
 	
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
-<section><h4><span class="red">2022年12月29日</span><span class="white"><br>今年も俣さんに予約してもらいました。<br>
+<section><h4><span class="red">2023年6月10日</span><span class="white"><br>今回は一郎に予約してもらいました。<br>
 以下、適当な写真集</span></h4></section>
 <br>
-	<p>東京駅に集合しました</p>
+	<p>飲屋街は通路にお客さんが溢れ出すほど盛況！</p>
 <a href="20221229_001.JPG" data-lightbox="abc"><img src="20221229_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221229_002.JPG" data-lightbox="abc"><img src="20221229_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20221229_003.JPG" data-lightbox="abc"><img src="20221229_003.JPG" alt="サンプル画像" width="900" /></a>
@@ -122,5 +122,5 @@ body::before {
 
 <!-- フッタ -->
  <footer>
- <span class="white">Copyright 2022/12/30 S.Hada</span>
+ <span class="white">Copyright 2023/06/11 S.Hada</span>
  </footer>

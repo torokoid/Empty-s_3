@@ -78,12 +78,14 @@ body::before {
 <h2><span class="yellow"><marquee behavior="alternate">!!! 2023年6月10日、新橋で飲み会!!!</marquee></span></h2>
 	
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
-<section><h4><span class="red">2023年6月10日</span><span class="white"><br>今回は一郎に予約してもらいました。<br>
-以下、適当な写真集</span></h4></section>
+<section><h4><span class="red">2023年6月10日</span><span class="white"><br>今回は一郎に予約してもらいました。</span></h4></section><br>
+<a href="20230610_039.JPG" data-lightbox="abc"><img src="20230610_039.JPG" alt="サンプル画像" width="900" /></a>
+<section><h4><span class="red">以下、適当な写真集</span></h4></section>
 <br>
 	<p>飲屋街は通路にお客さんが溢れ出すほど盛況！</p>
 <a href="20230610_001.JPG" data-lightbox="abc"><img src="20230610_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_002.JPG" data-lightbox="abc"><img src="20230610_002.JPG" alt="サンプル画像" width="900" /></a>
+	<p>一次会写真集！</p>
 <a href="20230610_003.JPG" data-lightbox="abc"><img src="20230610_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_004.JPG" data-lightbox="abc"><img src="20230610_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_005.JPG" data-lightbox="abc"><img src="20230610_005.JPG" alt="サンプル画像" width="900" /></a>
@@ -100,6 +102,7 @@ body::before {
 <a href="20230610_016.JPG" data-lightbox="abc"><img src="20230610_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_017.JPG" data-lightbox="abc"><img src="20230610_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_018.JPG" data-lightbox="abc"><img src="20230610_018.JPG" alt="サンプル画像" width="900" /></a>
+	<p>二次会写真集！</p>
 <a href="20230610_019.JPG" data-lightbox="abc"><img src="20230610_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_020.JPG" data-lightbox="abc"><img src="20230610_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_021.JPG" data-lightbox="abc"><img src="20230610_021.JPG" alt="サンプル画像" width="900" /></a>

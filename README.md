@@ -100,8 +100,8 @@ body::before {
 <a href="20230610_009.JPG" data-lightbox="abc"><img src="20230610_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_010.JPG" data-lightbox="abc"><img src="20230610_010.JPG" alt="サンプル画像" width="900" /></a>
 	<br><br><p>栃木には無いQRコードトイレシステム！</p>
-<a href="20230610_011.JPG" data-lightbox="abc"><img src="20230610_011.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230610_012.JPG" data-lightbox="abc"><img src="20230610_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230610_011.JPG" data-lightbox="abc"><img src="20230610_011.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20230610_012.JPG" data-lightbox="abc"><img src="20230610_012.JPG" alt="サンプル画像" width="450" /></a>
 	<br><br><p>二次会写真集！、みきちゃん死角で写真撮れず〜誰か撮ってたら送って〜</p>
 <a href="20230610_013.JPG" data-lightbox="abc"><img src="20230610_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_014.JPG" data-lightbox="abc"><img src="20230610_014.JPG" alt="サンプル画像" width="900" /></a>

@@ -79,7 +79,7 @@ body::before {
 	
 <h3><span class="white">↓ 画像はクリックで拡大、スライドショー表示します。</span></h3>
 <section><h4><span class="red">2023年6月10日</span><span class="white"><br>今回は一郎に予約してもらいました。</span></h4></section><br>
-<a href="20230610_039.JPG" data-lightbox="abc"><img src="20230610_039.JPG" alt="サンプル画像" width="900" /></a>
+<a href="[20230610_039.JPG" data-lightbox="abc](https://tabelog.com/tokyo/A1301/A130103/13007107/)"><img src="20230610_039.JPG" alt="サンプル画像" width="900" /></a>
 <section><h4><span class="red">以下、適当な写真集</span></h4></section>
 <br>
 	<p>飲屋街は通路にお客さんが溢れ出すほど盛況！</p>

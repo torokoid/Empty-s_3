@@ -71,7 +71,7 @@ body::before {
 <p class="topicpath"><a href="https://torokoid.github.io/Empty-s/">忘年会</a>><a href="https://torokoid.github.io/Empty-s_2/">忘年会_2</a>>6月飲み会</p></div>
 <p align="right">2023、新橋、飲み会。</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<p align="left"> <img src="qr____.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR____.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 	
 	
@@ -85,28 +85,28 @@ body::before {
 	<p>飲屋街は通路にお客さんが溢れ出すほど盛況！</p>
 <a href="20230610_001.JPG" data-lightbox="abc"><img src="20230610_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_002.JPG" data-lightbox="abc"><img src="20230610_002.JPG" alt="サンプル画像" width="900" /></a>
-	<br><p>一次会写真集！</p>
+	<br><br><p>一次会写真集！</p>
 <a href="20230610_003.JPG" data-lightbox="abc"><img src="20230610_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_004.JPG" data-lightbox="abc"><img src="20230610_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_005.JPG" data-lightbox="abc"><img src="20230610_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_006.JPG" data-lightbox="abc"><img src="20230610_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_007.JPG" data-lightbox="abc"><img src="20230610_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_008.JPG" data-lightbox="abc"><img src="20230610_008.JPG" alt="サンプル画像" width="900" /></a>
-	<br><p>一次会全員写真！</p>
+	<br><br><p>一次会全員写真！</p>
 <a href="20230610_038.JPG" data-lightbox="abc"><img src="20230610_038.JPG" alt="サンプル画像" width="900" /></a>
-	<br><p>移動中、雨がSLに反応！</p>
+	<br><br><p>移動中、雨がSLに反応！</p>
 <a href="20230610_009.JPG" data-lightbox="abc"><img src="20230610_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_010.JPG" data-lightbox="abc"><img src="20230610_010.JPG" alt="サンプル画像" width="900" /></a>
-	<br><p>栃木には無いQRコードトイレシステム！</p>
+	<br><br><p>栃木には無いQRコードトイレシステム！</p>
 <a href="20230610_011.JPG" data-lightbox="abc"><img src="20230610_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_012.JPG" data-lightbox="abc"><img src="20230610_012.JPG" alt="サンプル画像" width="900" /></a>
-	<br><p>二次会写真集！、みきちゃん死角で写真撮れず〜誰か撮ってたら送って〜</p>
+	<br><br><p>二次会写真集！、みきちゃん死角で写真撮れず〜誰か撮ってたら送って〜</p>
 <a href="20230610_013.JPG" data-lightbox="abc"><img src="20230610_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_014.JPG" data-lightbox="abc"><img src="20230610_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_015.JPG" data-lightbox="abc"><img src="20230610_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_016.JPG" data-lightbox="abc"><img src="20230610_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_017.JPG" data-lightbox="abc"><img src="20230610_017.JPG" alt="サンプル画像" width="900" /></a>
-	<br><p>むっち〜提供の懐かし写真集！</p>
+	<br><br><br><p>むっち〜提供の懐かし写真集！</p>
 <a href="20230610_018.JPG" data-lightbox="abc"><img src="20230610_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_019.JPG" data-lightbox="abc"><img src="20230610_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230610_020.JPG" data-lightbox="abc"><img src="20230610_020.JPG" alt="サンプル画像" width="900" /></a>
